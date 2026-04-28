@@ -1,4 +1,5 @@
 
+
 Dataset_original_video加工中的四種狀態影片：
 1.	Normal（正常）：標準的加工過程。
 2.	Chatter（顫振）：加工時產生的異常震動。
@@ -38,6 +39,7 @@ step2: while cap.isOpened()對每一幀做捕捉。
 
 step3:避免狀態跳動頻繁，設buffer為10，紀錄最近出現最多次數作為顯示。
 
+<img width="566" height="867" alt="output1" src="https://github.com/user-attachments/assets/8bb22738-0bf2-431b-86b2-9c24af9ea09d" />
 ### 輸出為:
 marked_result_10resnet18.mp4
 
