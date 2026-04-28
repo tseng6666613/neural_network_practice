@@ -40,8 +40,11 @@ step2: while cap.isOpened()對每一幀做捕捉。
 step3:避免狀態跳動頻繁，設buffer為10，紀錄最近出現最多次數作為顯示。
 
 <img width="566" height="867" alt="output1" src="https://github.com/user-attachments/assets/8bb22738-0bf2-431b-86b2-9c24af9ea09d" />
+
 ### 輸出為:
 marked_result_10resnet18.mp4
 
 ### 訓練好的權重:
 normal_ephos10_machining_model.pth
+
+模型，輸出影片如連結: https://drive.google.com/drive/folders/1ILA03WvMwF7BQoGBZefDwcHW86-Eh-3x?usp=drive_link
