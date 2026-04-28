@@ -1,0 +1,9 @@
+# 排除大型資料夾
+dataset/
+dataset_oringinal_video/
+
+# 排除所有影片檔案
+*.mp4
+
+# 排除所有 PyTorch 模型權重檔
+*.pth
