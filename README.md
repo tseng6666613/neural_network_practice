@@ -20,7 +20,7 @@ Dataset_original_video加工中的四種狀態影片：
 
 ### 結論
 熱力圖（紅色區域）精準落在刀具與工件接觸的切削點上，模型透過觀察切削時產生的特徵（如切屑、火花或切削路徑）
-
+![image]([picture or gif url](https://github.com/tseng6666613/neural_network_practice/blob/main/output.png))
 ---
 
 ## function2.ipynb
