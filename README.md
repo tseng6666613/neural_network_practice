@@ -1,3 +1,4 @@
+
 Dataset_original_video加工中的四種狀態影片：
 1.	Normal（正常）：標準的加工過程。
 2.	Chatter（顫振）：加工時產生的異常震動。
@@ -20,7 +21,8 @@ Dataset_original_video加工中的四種狀態影片：
 
 ### 結論
 熱力圖（紅色區域）精準落在刀具與工件接觸的切削點上，模型透過觀察切削時產生的特徵（如切屑、火花或切削路徑）
-![image]([picture or gif url](https://github.com/tseng6666613/neural_network_practice/blob/main/output.png))
+<img width="279" height="504" alt="output0" src="https://github.com/user-attachments/assets/233b6b27-95b4-4447-b614-f2364853f4ee" />
+<img width="279" height="504" alt="output" src="https://github.com/user-attachments/assets/f8f9e9a3-ba1d-49e2-b2a0-395a59c9a062" />
 ---
 
 ## function2.ipynb
